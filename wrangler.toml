@@ -3,8 +3,7 @@ main = "worker.js"
 compatibility_date = "2023-10-30"
 
 # 部署前，请务必将 'your-kv-namespace-id' 替换为您的真实 KV 命名空间 ID
-# 您可以通过 `npx wrangler kv:namespace create LINKS` 命令来创建一个新的 KV 命名空间
+# 您可以通过 `npx wrangler kv namespace create LINKS` 命令来创建一个新的 KV 命名空间
 [[kv_namespaces]]
 binding = "LINKS"
 id = "443dc0e8a7764343844a9ebd5f2c3204"
-preview_id = "443dc0e8a7764343844a9ebd5f2c3204"
