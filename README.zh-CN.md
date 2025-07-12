@@ -6,8 +6,7 @@
 
 本项目修改自 [kiko923/MyUrls-Workers](https://github.com/kiko923/MyUrls-Workers) 的初始项目。
 
-[![一键部署至 Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/deploy?repo=https://github.com/your-username/your-repo-name) 
-*(注意: 为使此按钮生效，请将链接替换为您自己的 GitHub 仓库地址。)*
+[![一键部署至 Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/deploy?repo=https://github.com/zivan80/shortlink)
 
 ## 安装与设置
 

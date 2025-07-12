@@ -6,8 +6,7 @@ A simple, fast, and self-contained shortlink service running on Cloudflare Worke
 
 This project is a modification of the original work by [kiko923/MyUrls-Workers](https://github.com/kiko923/MyUrls-Workers).
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/deploy?repo=https://github.com/your-username/your-repo-name) 
-*(Note: Replace the link with your actual GitHub repository URL for the button to work correctly.)*
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/deploy?repo=https://github.com/zivan80/shortlink)
 
 ## Setup
 
