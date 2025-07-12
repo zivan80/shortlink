@@ -1,0 +1,19 @@
+# Dependencies
+/node_modules
+
+# Wrangler state
+.wrangler/
+
+# Miniflare state
+.miniflare/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
