@@ -13,7 +13,7 @@ This project is a modification of the original work by [kiko923/MyUrls-Workers](
 1.  **Clone the repository.**
 2.  **Create a KV Namespace**: Run the following command and note the output `id`.
     ```bash
-    npx wrangler kv:namespace create LINKS
+    npx wrangler kv namespace create LINKS
     ```
 3.  **Configure `wrangler.toml`**: Open `wrangler.toml` and replace `your-kv-namespace-id` with the actual ID you obtained in the previous step.
 4.  **Deploy**:

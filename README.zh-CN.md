@@ -13,7 +13,7 @@
 1.  **克隆仓库。**
 2.  **创建 KV 命名空间**: 运行以下命令并记下输出的 `id`。
     ```bash
-    npx wrangler kv:namespace create LINKS
+    npx wrangler kv namespace create LINKS
     ```
 3.  **配置 `wrangler.toml`**: 打开 `wrangler.toml` 文件，将 `your-kv-namespace-id` 替换为您在上一步中获得的真实 ID。
 4.  **部署**:
